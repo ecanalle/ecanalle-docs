@@ -8,6 +8,9 @@
 .Spotlight-V100
 .Trashes
 
+# Project-specific
+Anexos/Projetos.md
+
 # IDE / Editor
 .vscode/
 .idea/
