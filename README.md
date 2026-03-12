@@ -132,6 +132,21 @@ ecanalle-docs/
 
 ---
 
+## 🌐 Resources & References
+
+Looking for external resources, courses, and communities? Check out our comprehensive collection in the [`/etc`](etc/) folder:
+
+- 📖 [**Documentação Oficial**](etc/Documentacao_Oficial.md) - Apple docs and Swift.org resources
+- 🎓 [**Tutoriais e Cursos**](etc/Tutoriais_e_Cursos.md) - Online courses and tutorials
+- 🌍 [**Comunidades**](etc/Comunidades.md) - Forums and discussion communities
+- 🌐 [**Redes Sociais**](etc/Redes_Sociais.md) - Twitter, Reddit, Instagram, and Telegram
+- 📺 [**YouTube e Vídeos**](etc/YouTube_e_Videos.md) - Video channels and playlists
+- 🎙️ [**Podcasts**](etc/Podcasts.md) - Audio content and podcasts
+- 📚 [**Livros**](etc/Livros.md) - Book recommendations
+- 🇧🇷 [**Recursos em PT-BR**](etc/Recursos_PT-BR.md) - Content in Brazilian Portuguese
+
+---
+
 ## 🤝 Contributing
 
 This is a personal documentation repository. Feel free to fork, study, and adapt the content for your own learning!
@@ -246,7 +261,20 @@ Documentação abrangente sobre Swift: fundamentos, arquitetura de software, fra
 - ✅ Boas práticas e padrões de design
 
 ---
+## 🌐 Recursos e Referências
 
+Procurando recursos externos, cursos e comunidades? Confira nossa coleção abrangente na pasta [`/etc`](etc/):
+
+- 📖 [**Documentação Oficial**](etc/Documentacao_Oficial.md) - Docs oficiais da Apple e Swift.org
+- 🎓 [**Tutoriais e Cursos**](etc/Tutoriais_e_Cursos.md) - Cursos online e tutoriais
+- 🌍 [**Comunidades**](etc/Comunidades.md) - Fóruns e grupos de discussão
+- 🌐 [**Redes Sociais**](etc/Redes_Sociais.md) - Twitter, Reddit, Instagram e Telegram
+- 📺 [**YouTube e Vídeos**](etc/YouTube_e_Videos.md) - Canais e playlists
+- 🎙️ [**Podcasts**](etc/Podcasts.md) - Conteúdo de áudio
+- 📚 [**Livros**](etc/Livros.md) - Recomendações de livros
+- 🇧🇷 [**Recursos em PT-BR**](etc/Recursos_PT-BR.md) - Conteúdo em português brasileiro
+
+---
 ### 🤝 Contribuindo
 
 Este é um repositório pessoal de documentação. Sinta-se à vontade para fazer fork, estudar e adaptar o conteúdo para seu próprio aprendizado!
