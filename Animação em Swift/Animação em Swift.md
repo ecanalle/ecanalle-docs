@@ -152,4 +152,4 @@ struct ContentView: View {
     
 
 Em resumo, ao falar de "animação em Swift", é importante distinguir entre as abordagens oferecidas pelo Core Animation (mais fundamental e controlada) e pelo SwiftUI (mais declarativa e integrada), cada uma com seus próprios casos de uso e vantagens. Para novos projetos em SwiftUI, a abordagem nativa do framework é geralmente recomendada pela sua simplicidade e eficiência.
-Relacionados: [[Core Animation]] [[SwiftUI Animations]]
+Relacionados: [Core Animation](Animação%20em%20Swift/Core%20Animation.md) [SwiftUI Animations](Animação%20em%20Swift/SwiftUI%20Animations.md)

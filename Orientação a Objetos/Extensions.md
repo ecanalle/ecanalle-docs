@@ -187,4 +187,4 @@ extension PaymentProcessing {
 - Use extensions para conformar tipos existentes a protocolos, melhorando a arquitetura e a modularidade do código.
 - Organizando extensions por funcionalidade em arquivos ou blocos separados melhora significativamente a legibilidade do código em projetos grandes.
 
-Relacionado: [[Classes e Structs]]
+Relacionado: [Classes e Structs](Orientação%20a%20Objetos/Classes%20e%20Structs.md)

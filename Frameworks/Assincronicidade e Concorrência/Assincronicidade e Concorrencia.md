@@ -20,4 +20,4 @@
 
 **Em resumo:** `async/await` simplifica operações assíncronas pontuais, enquanto Combine oferece uma abordagem reativa para fluxos de dados assíncronos mais complexos.
 
-Relacionado: [[Async Await]] [[Combine]]
+Relacionado: [Async Await](Frameworks/Assincronicidade%20e%20Concorrência/Async%20Await.md) [Combine](Frameworks/Assincronicidade%20e%20Concorrência/Combine.md)

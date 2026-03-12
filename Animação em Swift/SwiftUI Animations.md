@@ -201,4 +201,4 @@ struct ContentView: View {
 
 SwiftUI simplifica muito a criação de animações expressivas em suas aplicações, aproveitando o poder do Core Animation por baixo dos panos. Ao entender os conceitos básicos de `withAnimation`, `Animation`, e `transition`, você pode adicionar facilmente movimento e vida à sua interface de usuário.
 
-Relacionados: [[SwiftUI]]
+Relacionados: [SwiftUI](Frameworks/Interfaces%20de%20Usuário%20(UI)/SwiftUI.md)

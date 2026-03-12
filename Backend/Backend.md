@@ -25,4 +25,4 @@ Este resumo apresenta os principais frameworks para desenvolvimento web (backend
 
 **Em resumo:** Para novos projetos, **Vapor** e **Hummingbird** são geralmente as opções mais recomendadas devido à sua modernidade, atividade da comunidade e performance. Perfect e Kitura, embora funcionais, podem não ter o mesmo nível de suporte e atualizações recentes.
 
-Relacionados: [[Hummingbird]] [[Vapor]] [[Perfect]] [[Kitura]]
+Relacionados: [Hummingbird](Backend/Hummingbird.md) [Vapor](Backend/Vapor.md) [Perfect](Backend/Perfect.md) [Kitura](Backend/Kitura.md)

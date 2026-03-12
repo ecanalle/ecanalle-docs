@@ -495,4 +495,4 @@ class ViewController: DataSourceDelegate {
 - [GitHub: Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 
-**Relacionados:** [[Arquitetura de Software]] [[Orientação a Objetos]]
+**Relacionados:** [Arquitetura de Software](Arquitetura%20de%20Software/Arquitetura%20de%20Software.md) [Orientação a Objetos](Orientação%20a%20Objetos/Classes%20e%20Structs.md)
