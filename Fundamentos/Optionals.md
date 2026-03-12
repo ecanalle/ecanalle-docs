@@ -130,4 +130,4 @@ print(numero ?? 0) // Usa 0 como padrão
 - Evite forced unwrapping (`!`) a menos que você tenha certeza absoluta. A maioria das crashes em Swift relacionadas a optionals vêm de forced unwrapping desnecessário.
 - O optional é um dos maiores diferenciais de segurança do Swift em comparação com linguagens como C ou Objective-C.
 
-Relacionado: [[Tipos]] | [[Funções]]
+Relacionado: [Tipos](Tipos.md) | [Funções](../Funções%20e%20Closures/Funções.md)

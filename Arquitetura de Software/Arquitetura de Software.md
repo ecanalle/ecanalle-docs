@@ -47,4 +47,4 @@ A escolha da arquitetura depende de vários fatores, incluindo:
 
 ![Diagrama Arquiteturas Swift](../Anexos/DiagramaArquiteturasSwift.svg)
 
-Relacionados: [[MVC]] [[MVVM]] [[Viper]]
+Relacionados: [MVC](MVC.md) [MVVM](MVVM.md) [VIPER](Viper.md)

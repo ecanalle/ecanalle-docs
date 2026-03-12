@@ -402,4 +402,4 @@ Kitura ainda é funcional, mas:
 - [Documentação](https://kitura.dev/)
 - [Exemplos](https://github.com/IBM-Swift/Kitura-Sample)
 
-**Relacionados:** [[Backend]] [[Vapor]] [[Hummingbird]] [[Perfect]]
+**Relacionados:** [Backend](Backend.md) [Vapor](Vapor.md) [Hummingbird](Hummingbird.md) [Perfect](Perfect.md)

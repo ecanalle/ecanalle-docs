@@ -86,4 +86,4 @@ func demonstrarEscopo() {
 - A escolha entre `var` e `let` afeta a mutabilidade do valor, não o tipo. Uma variável sempre terá o mesmo tipo, mesmo que seu valor mude.
 - Constantes precisam ser inicializadas com um valor no momento de sua declaração ou antes de serem usadas pela primeira vez.- Seguidores da filosofia funcional preferem maximizar o uso de `let` e minimizar o de `var` para reduzir estado mutável.
 - Variáveis e constantes com escopo mais reduzido (em blocos menores) são mais fáceis de rastrear e depurar.
-[[Tipos]] | [[Optionals]]
+[Tipos](Tipos.md) | [Optionals](Optionals.md)

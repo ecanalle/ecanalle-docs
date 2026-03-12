@@ -129,4 +129,4 @@ let publisher = Timer.publish(every: 1, on: .main, in: .common)
 - Entender os conceitos de Publishers, Subscribers e Operators é fundamental para utilizar o Combine de forma eficaz.
 - O gerenciamento de assinaturas com `AnyCancellable` é essencial para evitar vazamentos de memória.
 
-Relacionado: [[Async Await]]
+Relacionado: [Async/Await](Async%20Await.md)

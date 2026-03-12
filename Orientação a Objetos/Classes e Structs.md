@@ -160,4 +160,4 @@ print(user1.email)     // Saída: novo@email.com (afetado!)
 | Hierarquia Complexa | ✗ | ✓ |
 | Thread-safe por natureza | ✓ | ✗ |
 
-Relacionado: [[Herança]]
+Relacionado: [Herança](Herança.md)

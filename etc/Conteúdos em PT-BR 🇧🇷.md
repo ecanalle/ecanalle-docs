@@ -89,4 +89,4 @@ Podcast do [MacMagazine](https://macmagazine.com.br/), um dos maiores sites sob
 
 [6] - [Thiago Aguiar: Tutoriais IOS](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
 
-Relacionado: [[Conteúdos]]
+Relacionado: [Conteúdos](Conteúdos.md)

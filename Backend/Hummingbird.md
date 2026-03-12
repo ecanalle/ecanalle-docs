@@ -436,4 +436,4 @@ CMD ["./.build/release/MyHummingbirdAPI"]
 - [GitHub Repository](https://github.com/hummingbird-project/hummingbird)
 - [SwiftNIO](https://github.com/apple/swift-nio)
 
-**Relacionados:** [[Backend]] [[Vapor]] [[Perfect]] [[Kitura]]
+**Relacionados:** [Backend](Backend.md) [Vapor](Vapor.md) [Perfect](Perfect.md) [Kitura](Kitura.md)

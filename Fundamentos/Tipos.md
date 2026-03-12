@@ -98,5 +98,5 @@ let outraDecimal = 2.71828 // Inferido como Double
 let outraMensagem = "Inferencia de tipo" // Inferido como String
 let outroBooleano = true // Inferido como Bool
 ```
-[[Variáveis e Constantes]] | [[Optionals]]
+[Variáveis e Constantes](Variáveis%20e%20Constantes.md) | [Optionals](Optionals.md)
 

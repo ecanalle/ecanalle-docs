@@ -138,4 +138,4 @@ class SubClasseComMetodoFinal: ClasseComMetodoFinal {
 }
 ```
 
-Relacionado: [[Classes e Structs]]
+Relacionado: [Classes e Structs](Classes%20e%20Structs.md)

@@ -100,4 +100,4 @@ O `async/await` no Swift é construído sobre o conceito de **concorrência e
 - É importante entender como usar `Task` para criar contextos onde funções `async` podem ser chamadas.
 - A concorrência estruturada é um conceito chave para escrever código assíncrono robusto e seguro.
 
-Relacionado: [[Generics]]
+Relacionado: [Generics](../../Swift%20Avançado/Generics.md)

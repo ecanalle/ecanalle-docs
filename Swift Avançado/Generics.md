@@ -212,4 +212,4 @@ print(ehIgual(a: "Hello", b: "Hello")) // Saída: true
 - Protocols com associated types fornecem ainda mais capacidade de expressão em Swift avançado.
 - Generics funcionam em tempo de compilação, garantindo zero custo abstrato em runtime.
 
-[[Protocolos]] | [[Async Await]]
+[Protocolos](../Orientação%20a%20Objetos/Protocolos.md) | [Async/Await](../Frameworks/Assincronicidade%20e%20Concorrência/Async%20Await.md)

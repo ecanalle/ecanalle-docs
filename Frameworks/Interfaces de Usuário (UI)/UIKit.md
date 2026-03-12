@@ -131,4 +131,4 @@ UIKit também permite construir interfaces visualmente usando Storyboards e o In
 - UIKit tem sido a principal ferramenta para o desenvolvimento de interfaces iOS por muitos anos e ainda é amplamente utilizado.
 - Para desenvolvedores entrando no ecossistema da Apple, entender os fundamentos do UIKit pode ser valioso, especialmente para trabalhar em projetos existentes ou para cenários onde SwiftUI ainda não oferece todas as funcionalidades necessárias.
 
-Relacionado: [[SwiftUI]]
+Relacionado: [SwiftUI](SwiftUI.md)

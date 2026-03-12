@@ -235,4 +235,4 @@ for dispositivo in dispositivos {
 - Extensions de protocolo permitem fornecer implementações padrão, reduzindo código duplicado.
 - Protocolos com associated types (tipos associados) permitem maior expressividade mas requerem type erasure em casos de coleções polimórficas.
 
-Relacionado: [[Classes e Structs]]
+Relacionado: [Classes e Structs](Classes%20e%20Structs.md)

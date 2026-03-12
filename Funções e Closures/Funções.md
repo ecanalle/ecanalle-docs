@@ -246,4 +246,4 @@ print("Usuário: \(nome), com \(idade) anos") // Saída: Usuário: Carlos, com 3
 - Retornar tuples é uma forma idiomática de retornar múltiplos valores sem criar estruturas ou classes extras.
 - Em Swift, as funções são consideradas "cidadãos de primeira classe", permitindo programação funcional elegante.
 
-[[Optionals]] | [[Closures]]
+[Optionals](../Fundamentos/Optionals.md) | [Closures](Closures.md)

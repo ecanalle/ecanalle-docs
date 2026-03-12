@@ -180,4 +180,4 @@ class Downloader {
 - A anotação `@escaping` é necessária quando o closure pode ser executado após a função retornar.
 - Use `[weak self]` ao capturar `self` em closures de longa duração para evitar ciclos de retenção de memória.
 
-Relacionado: [[Funções]]
+Relacionado: [Funções](Funções.md)

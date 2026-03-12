@@ -448,6 +448,6 @@ swift build -c release
 
 ## Conclusão
 
-Perfect é funcional e estável, mas para **novos projetos**, considere [[Vapor]] ou [[Hummingbird]] por comunidade mais ativa e desenvolvimento contínuo.
+Perfect é funcional e estável, mas para **novos projetos**, considere [Vapor](Vapor.md) ou [Hummingbird](Hummingbird.md) por comunidade mais ativa e desenvolvimento contínuo.
 
-**Relacionados:** [[Backend]] [[Vapor]] [[Hummingbird]] [[Kitura]]
+**Relacionados:** [Backend](Backend.md) [Vapor](Vapor.md) [Hummingbird](Hummingbird.md) [Kitura](Kitura.md)

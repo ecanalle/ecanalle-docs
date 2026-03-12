@@ -420,4 +420,4 @@ mycli --help
 - [Swift.org: Building for Server-Side Swift](https://www.swift.org/server/)
 - [Vapor CLI Tools](https://docs.vapor.codes/basics/commands/)
 
-**Relacionados:** [[Backend]] [[Swift Avançado]]
+**Relacionados:** [Backend](../Backend/Backend.md) [Swift Avançado](../Swift%20Avançado/Generics.md)

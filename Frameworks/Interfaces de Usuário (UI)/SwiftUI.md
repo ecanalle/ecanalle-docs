@@ -194,4 +194,4 @@ struct DetailView: View {
 - Compreender a abordagem declarativa e o gerenciamento de estado é fundamental para construir aplicativos SwiftUI eficazes.
 - Explore os vários containers de layout e modificadores para criar interfaces complexas e personalizadas.
 
-Relacionado: [[UIKit]]
+Relacionado: [UIKit](UIKit.md)

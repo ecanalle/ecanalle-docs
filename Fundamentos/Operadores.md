@@ -150,4 +150,4 @@ if idade >= 18 {
 * Operadores podem ser customizados em tipos próprios através de method overloading.
 * A precedência de operadores em Swift segue convenções matemáticas (multiplicação antes de adição, etc).
 
-[[Tipos]]
+[Tipos](Tipos.md)

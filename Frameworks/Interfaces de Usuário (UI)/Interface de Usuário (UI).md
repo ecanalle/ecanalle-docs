@@ -15,4 +15,4 @@ Este resumo apresenta os principais frameworks para construir interfaces de usu�
 * **Destaque para Apple Watch:** **Não é relevante** para o desenvolvimento de interfaces para Apple Watch.
 
 
-Relacionados: [[AppKit]] [[SwiftUI]] [[UIKit]]
+Relacionados: [AppKit](AppKit.md) [SwiftUI](SwiftUI.md) [UIKit](UIKit.md)
