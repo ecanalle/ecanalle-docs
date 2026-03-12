@@ -6,28 +6,32 @@
 
 ## 🇺🇸 English
 
+> **📌 Note:** This repository's primary documentation is in **Brazilian Portuguese** 🇧🇷. This English section provides navigation by translating topic titles. The detailed content is in Portuguese.
+> 
+> For complete content in Portuguese: [**🇧🇷 Português Brasileiro**](#-português-brasileiro)
+
 Comprehensive documentation on Swift: fundamentals, software architecture, frameworks, and design patterns.
 
 ### 📖 Table of Contents
 
 ### 🎯 Fundamentals
-- [Tipos de Dados](Fundamentos/Tipos.md)
-- [Variáveis e Constantes](Fundamentos/Variáveis%20e%20Constantes.md)
-- [Operadores](Fundamentos/Operadores.md)
+- [Data Types](Fundamentos/Tipos.md)
+- [Variables and Constants](Fundamentos/Variáveis%20e%20Constantes.md)
+- [Operators](Fundamentos/Operadores.md)
 - [Optionals](Fundamentos/Optionals.md)
 
 ### 🔧 Functions & Closures
-- [Funções](Funções%20e%20Closures/Funções.md)
+- [Functions](Funções%20e%20Closures/Funções.md)
 - [Closures](Funções%20e%20Closures/Closures.md)
 
 ### 🏗️ Object-Oriented Programming
-- [Classes e Structs](Orientação%20a%20Objetos/Classes%20e%20Structs.md)
-- [Herança](Orientação%20a%20Objetos/Herança.md)
-- [Protocolos](Orientação%20a%20Objetos/Protocolos.md)
+- [Classes and Structs](Orientação%20a%20Objetos/Classes%20e%20Structs.md)
+- [Inheritance](Orientação%20a%20Objetos/Herança.md)
+- [Protocols](Orientação%20a%20Objetos/Protocolos.md)
 - [Extensions](Orientação%20a%20Objetos/Extensions.md)
 
 ### 🏛️ Software Architecture
-- [Arquitetura de Software](Arquitetura%20de%20Software/Arquitetura%20de%20Software.md)
+- [Software Architecture](Arquitetura%20de%20Software/Arquitetura%20de%20Software.md)
   - [MVC](Arquitetura%20de%20Software/MVC.md)
   - [MVVM](Arquitetura%20de%20Software/MVVM.md)
   - [VIPER](Arquitetura%20de%20Software/Viper.md)
@@ -71,10 +75,10 @@ Comprehensive documentation on Swift: fundamentals, software architecture, frame
   - [Perfect](Backend/Perfect.md)
 
 ### 🌍 Internationalization & Localization
-- [i18n e Localização](Internacionalização%20e%20Localização/Internacionalização%20e%20Localização.md)
+- [i18n and Localization](Internacionalização%20e%20Localização/Internacionalização%20e%20Localização.md)
 
 ### ♿ Accessibility
-- [Acessibilidade](Acessibilidade/Acessibilidade.md)
+- [Accessibility](Acessibilidade/Acessibilidade.md)
 
 ### 💻 CLI
 - [Command Line Interface](CLI/CLI.md)
@@ -85,25 +89,25 @@ Comprehensive documentation on Swift: fundamentals, software architecture, frame
 
 ```
 ecanalle-docs/
-├── Fundamentos/               # Swift basics and fundamentals
+├── Fundamentos/               # Swift fundamentals
 ├── Funções e Closures/        # Functions and closures
 ├── Orientação a Objetos/      # OOP concepts
 ├── Arquitetura de Software/   # Architecture patterns (MVC, MVVM, VIPER)
 ├── Frameworks/                # Framework guides
-│   ├── Interfaces de Usuário (UI)/
-│   ├── Assincronicidade e Concorrência/
-│   ├── Persistência de dados/
-│   ├── Gerenciamento de Dependências/
-│   └── Testes/
+│   ├── Interfaces de Usuário (UI)/  # UI frameworks
+│   ├── Assincronicidade e Concorrência/  # Async programming
+│   ├── Persistência de dados/  # Data persistence
+│   ├── Gerenciamento de Dependências/  # Dependency managers
+│   └── Testes/                # Testing frameworks
 ├── Swift Avançado/            # Advanced topics
 ├── Backend/                   # Backend frameworks
 ├── Animação em Swift/         # Animation guides
 ├── Design Patterns/           # Design patterns
 ├── Acessibilidade/            # Accessibility guidelines
-├── Internacionalização e Localização/
+├── Internacionalização e Localização/  # i18n & localization
 ├── CLI/                       # CLI development
-├── Anexos/                    # Additional materials
-└── etc/                       # Other resources
+├── Anexos/                    # Additional materials (diagrams, etc)
+└── etc/                       # Resources & external references
 ```
 
 ---
@@ -111,9 +115,10 @@ ecanalle-docs/
 ## 🚀 Getting Started
 
 1. **Browse the documentation** by following the table of contents above
-2. **Start with fundamentals** if you're new to Swift
-3. **Explore architecture patterns** for building scalable apps
-4. **Check framework guides** for specific technologies
+2. **Start with Fundamentals** if you're new to Swift
+3. **Explore Architecture Patterns** for building scalable apps
+4. **Check Framework Guides** for specific technologies
+5. **Review Resources** in the [`/etc`](etc/) folder for courses and communities
 
 ---
 
@@ -162,6 +167,8 @@ This documentation is provided as-is for educational purposes.
 ---
 
 ## 🇧🇷 Português Brasileiro
+
+> **✨ Conteúdo Principal:** A documentação deste repositório foi desenvolvida inteiramente em **português brasileiro** para servir a comunidade de desenvolvedores que preferem aprender em sua língua nativa.
 
 Documentação abrangente sobre Swift: fundamentos, arquitetura de software, frameworks e padrões de design.
 
