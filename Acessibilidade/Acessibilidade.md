@@ -337,4 +337,4 @@ struct AccessibleCard: View {
 - "Inclusive Components" (Heydon Pickering)
 - "Accessible Web Design" (Jeremy Sydik)
 
-**Relacionados:** [Interface de Usuário (UI)](Frameworks/Interfaces%20de%20Usuário%20(UI)/Interface%20de%20Usuário%20(UI).md) [SwiftUI](Frameworks/Interfaces%20de%20Usuário%20(UI)/SwiftUI.md) [UIKit](Frameworks/Interfaces%20de%20Usuário%20(UI)/UIKit.md) [Internacionalização e Localização](Internacionalização%20e%20Localização/Internacionalização%20e%20Localização.md)
+**Relacionados:** [Interface de Usuário (UI)](../Frameworks/Interfaces%20de%20Usuário%20(UI)/Interface%20de%20Usuário%20(UI).md) [SwiftUI](../Frameworks/Interfaces%20de%20Usuário%20(UI)/SwiftUI.md) [UIKit](../Frameworks/Interfaces%20de%20Usuário%20(UI)/UIKit.md) [Internacionalização e Localização](../Internacionalização%20e%20Localização/Internacionalização%20e%20Localização.md)

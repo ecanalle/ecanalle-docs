@@ -248,4 +248,4 @@ Este é apenas um ponto de partida para explorar o Core Animation em Swift. Exis
 
 
 
-Relacionados: [UIKit](Frameworks/Interfaces%20de%20Usuário%20(UI)/UIKit.md) [AppKit](Frameworks/Interfaces%20de%20Usuário%20(UI)/AppKit.md)
+Relacionados: [UIKit](../Frameworks/Interfaces%20de%20Usuário%20(UI)/UIKit.md) [AppKit](../Frameworks/Interfaces%20de%20Usuário%20(UI)/AppKit.md)

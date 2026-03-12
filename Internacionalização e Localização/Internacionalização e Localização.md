@@ -245,4 +245,4 @@ struct ContentView: View {
 }
 ```
 
-**Relacionados:** [Links e Materiais](etc/Links%20e%20Materiais.md) [Acessibilidade](Acessibilidade/Acessibilidade.md)
+**Relacionados:** [Links e Materiais](../etc/Links%20e%20Materiais.md) [Acessibilidade](../Acessibilidade/Acessibilidade.md)
