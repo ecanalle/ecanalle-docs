@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2464pt" height="176pt" viewBox="0.00 0.00 2464.30 175.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 171.6)">
+<title>architectures</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-171.6 2460.3,-171.6 2460.3,4 -4,4"/>
+<!-- architectures -->
+<g id="node1" class="node">
+<title>architectures</title>
+<polygon fill="none" stroke="black" points="8,-140.8 8,-163.6 86.32,-163.6 86.32,-140.8 8,-140.8"/>
+<text text-anchor="start" x="11" y="-149" font-family="Times,serif" font-weight="bold" font-size="14.00">Arquitetura</text>
+<polygon fill="none" stroke="black" points="86.32,-140.8 86.32,-163.6 734.13,-163.6 734.13,-140.8 86.32,-140.8"/>
+<text text-anchor="start" x="331.5" y="-149" font-family="Times,serif" font-weight="bold" font-size="14.00">Principais Características</text>
+<polygon fill="none" stroke="black" points="734.13,-140.8 734.13,-163.6 1346.97,-163.6 1346.97,-140.8 734.13,-140.8"/>
+<text text-anchor="start" x="1026.94" y="-149" font-family="Times,serif" font-weight="bold" font-size="14.00">Prós</text>
+<polygon fill="none" stroke="black" points="1346.97,-140.8 1346.97,-163.6 1926.77,-163.6 1926.77,-140.8 1346.97,-140.8"/>
+<text text-anchor="start" x="1612.76" y="-149" font-family="Times,serif" font-weight="bold" font-size="14.00">Contras</text>
+<polygon fill="none" stroke="black" points="1926.77,-140.8 1926.77,-163.6 2448.3,-163.6 2448.3,-140.8 1926.77,-140.8"/>
+<text text-anchor="start" x="2121.61" y="-149" font-family="Times,serif" font-weight="bold" font-size="14.00">Casos de Uso Comuns</text>
+<polygon fill="none" stroke="black" points="8,-118 8,-140.8 86.32,-140.8 86.32,-118 8,-118"/>
+<text text-anchor="start" x="31.21" y="-125.2" font-family="Times,serif" font-size="14.00">MVC</text>
+<polygon fill="none" stroke="black" points="86.32,-118 86.32,-140.8 734.13,-140.8 734.13,-118 86.32,-118"/>
+<text text-anchor="start" x="233.92" y="-125.2" font-family="Times,serif" font-size="14.00">Model (dados), View (UI), Controller (lógica de apresentação)</text>
+<polygon fill="none" stroke="black" points="734.13,-118 734.13,-140.8 1346.97,-140.8 1346.97,-118 734.13,-118"/>
+<text text-anchor="start" x="918.28" y="-125.2" font-family="Times,serif" font-size="14.00">Simples inicialmente, amplamente adotado.</text>
+<polygon fill="none" stroke="black" points="1346.97,-118 1346.97,-140.8 1926.77,-140.8 1926.77,-118 1346.97,-118"/>
+<text text-anchor="start" x="1431.13" y="-125.2" font-family="Times,serif" font-size="14.00">"Massive View Controllers", alto acoplamento, baixa testabilidade da UI.</text>
+<polygon fill="none" stroke="black" points="1926.77,-118 1926.77,-140.8 2448.3,-140.8 2448.3,-118 1926.77,-118"/>
+<text text-anchor="start" x="2007.32" y="-125.2" font-family="Times,serif" font-size="14.00">Projetos menores, prototipagem, aplicações UIKit mais simples.</text>
+<polygon fill="none" stroke="black" points="8,-95.2 8,-118 86.32,-118 86.32,-95.2 8,-95.2"/>
+<text text-anchor="start" x="24.6" y="-102.4" font-family="Times,serif" font-size="14.00">MVVM</text>
+<polygon fill="none" stroke="black" points="86.32,-95.2 86.32,-118 734.13,-118 734.13,-95.2 86.32,-95.2"/>
+<text text-anchor="start" x="193.7" y="-102.4" font-family="Times,serif" font-size="14.00">Model (dados), View (UI), ViewModel (lógica de apresentação para a View)</text>
+<polygon fill="none" stroke="black" points="734.13,-95.2 734.13,-118 1346.97,-118 1346.97,-95.2 734.13,-95.2"/>
+<text text-anchor="start" x="842.47" y="-102.4" font-family="Times,serif" font-size="14.00">Alta testabilidade do ViewModel, boa separação, facilita data binding.</text>
+<polygon fill="none" stroke="black" points="1346.97,-95.2 1346.97,-118 1926.77,-118 1926.77,-95.2 1346.97,-95.2"/>
+<text text-anchor="start" x="1416.03" y="-102.4" font-family="Times,serif" font-size="14.00">Mais código, complexidade do data binding (em UIKit), ViewModels grandes.</text>
+<polygon fill="none" stroke="black" points="1926.77,-95.2 1926.77,-118 2448.3,-118 2448.3,-95.2 1926.77,-95.2"/>
+<text text-anchor="start" x="1929.77" y="-102.4" font-family="Times,serif" font-size="14.00">Aplicações de tamanho médio a grande, especialmente com SwiftUI ou UIKit com binding.</text>
+<polygon fill="none" stroke="black" points="8,-72.4 8,-95.2 86.32,-95.2 86.32,-72.4 8,-72.4"/>
+<text text-anchor="start" x="26.94" y="-79.6" font-family="Times,serif" font-size="14.00">VIPER</text>
+<polygon fill="none" stroke="black" points="86.32,-72.4 86.32,-95.2 734.13,-95.2 734.13,-72.4 86.32,-72.4"/>
+<text text-anchor="start" x="89.32" y="-79.6" font-family="Times,serif" font-size="14.00">View (UI), Interactor (lógica de negócios), Presenter (lógica de apresentação), Entity (dados), Router (navegação)</text>
+<polygon fill="none" stroke="black" points="734.13,-72.4 734.13,-95.2 1346.97,-95.2 1346.97,-72.4 734.13,-72.4"/>
+<text text-anchor="start" x="846.19" y="-79.6" font-family="Times,serif" font-size="14.00">Alta testabilidade, separação clara, boa escalabilidade e manutenção.</text>
+<polygon fill="none" stroke="black" points="1346.97,-72.4 1346.97,-95.2 1926.77,-95.2 1926.77,-72.4 1346.97,-72.4"/>
+<text text-anchor="start" x="1388.85" y="-79.6" font-family="Times,serif" font-size="14.00">Muito boilerplate, curva de aprendizado alta, pode ser excessivo para projetos pequenos.</text>
+<polygon fill="none" stroke="black" points="1926.77,-72.4 1926.77,-95.2 2448.3,-95.2 2448.3,-72.4 1926.77,-72.4"/>
+<text text-anchor="start" x="1946.91" y="-79.6" font-family="Times,serif" font-size="14.00">Aplicações grandes e complexas com foco em testabilidade e colaboração em equipe.</text>
+<polygon fill="none" stroke="black" points="8,-49.6 8,-72.4 86.32,-72.4 86.32,-49.6 8,-49.6"/>
+<text text-anchor="start" x="14.1" y="-56.8" font-family="Times,serif" font-size="14.00">Redux/Flux</text>
+<polygon fill="none" stroke="black" points="86.32,-49.6 86.32,-72.4 734.13,-72.4 734.13,-49.6 86.32,-49.6"/>
+<text text-anchor="start" x="209.06" y="-56.8" font-family="Times,serif" font-size="14.00">Estado centralizado (Store), Ações, Reducers (para modificar o estado).</text>
+<polygon fill="none" stroke="black" points="734.13,-49.6 734.13,-72.4 1346.97,-72.4 1346.97,-49.6 734.13,-49.6"/>
+<text text-anchor="start" x="818.38" y="-56.8" font-family="Times,serif" font-size="14.00">Gerenciamento de estado previsível, fácil depuração e teste do fluxo de dados.</text>
+<polygon fill="none" stroke="black" points="1346.97,-49.6 1346.97,-72.4 1926.77,-72.4 1926.77,-49.6 1346.97,-49.6"/>
+<text text-anchor="start" x="1428.5" y="-56.8" font-family="Times,serif" font-size="14.00">Pode levar a muito boilerplate, complexidade para operações assíncronas.</text>
+<polygon fill="none" stroke="black" points="1926.77,-49.6 1926.77,-72.4 2448.3,-72.4 2448.3,-49.6 1926.77,-49.6"/>
+<text text-anchor="start" x="1985.39" y="-56.8" font-family="Times,serif" font-size="14.00">Aplicações complexas com grande quantidade de estado compartilhado.</text>
+<polygon fill="none" stroke="black" points="8,-26.8 8,-49.6 86.32,-49.6 86.32,-26.8 8,-26.8"/>
+<text text-anchor="start" x="13.33" y="-34" font-family="Times,serif" font-size="14.00">Coordinator</text>
+<polygon fill="none" stroke="black" points="86.32,-26.8 86.32,-49.6 734.13,-49.6 734.13,-26.8 86.32,-26.8"/>
+<text text-anchor="start" x="260.75" y="-34" font-family="Times,serif" font-size="14.00">Lógica de navegação separada dos View Controllers.</text>
+<polygon fill="none" stroke="black" points="734.13,-26.8 734.13,-49.6 1346.97,-49.6 1346.97,-26.8 734.13,-26.8"/>
+<text text-anchor="start" x="737.13" y="-34" font-family="Times,serif" font-size="14.00">View Controllers mais focados, facilita testes de navegação, melhora a reutilização da lógica de navegação.</text>
+<polygon fill="none" stroke="black" points="1346.97,-26.8 1346.97,-49.6 1926.77,-49.6 1926.77,-26.8 1346.97,-26.8"/>
+<text text-anchor="start" x="1507.43" y="-34" font-family="Times,serif" font-size="14.00">Adiciona uma camada extra de complexidade.</text>
+<polygon fill="none" stroke="black" points="1926.77,-26.8 1926.77,-49.6 2448.3,-49.6 2448.3,-26.8 1926.77,-26.8"/>
+<text text-anchor="start" x="1969.65" y="-34" font-family="Times,serif" font-size="14.00">Gerenciamento de navegação complexa em conjunto com outras arquiteturas.</text>
+<polygon fill="none" stroke="black" points="8,-4 8,-26.8 86.32,-26.8 86.32,-4 8,-4"/>
+<text text-anchor="start" x="30.83" y="-11.2" font-family="Times,serif" font-size="14.00">Clean</text>
+<polygon fill="none" stroke="black" points="86.32,-4 86.32,-26.8 734.13,-26.8 734.13,-4 86.32,-4"/>
+<text text-anchor="start" x="145.88" y="-11.2" font-family="Times,serif" font-size="14.00">Separação por camadas concêntricas com dependências apontando para o núcleo de negócios.</text>
+<polygon fill="none" stroke="black" points="734.13,-4 734.13,-26.8 1346.97,-26.8 1346.97,-4 734.13,-4"/>
+<text text-anchor="start" x="834.51" y="-11.2" font-family="Times,serif" font-size="14.00">Altamente testável, independente de frameworks de UI e banco de dados.</text>
+<polygon fill="none" stroke="black" points="1346.97,-4 1346.97,-26.8 1926.77,-26.8 1926.77,-4 1346.97,-4"/>
+<text text-anchor="start" x="1349.97" y="-11.2" font-family="Times,serif" font-size="14.00">Pode ser complexo de implementar completamente, requer planejamento cuidadoso das dependências.</text>
+<polygon fill="none" stroke="black" points="1926.77,-4 1926.77,-26.8 2448.3,-26.8 2448.3,-4 1926.77,-4"/>
+<text text-anchor="start" x="1937.17" y="-11.2" font-family="Times,serif" font-size="14.00">Aplicações com requisitos de negócios complexos e foco em testabilidade e longevidade.</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760pt" height="87pt" viewBox="0.00 0.00 759.76 87.23">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 83.23)">
+<title>MVVM</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-83.23 755.76,-83.23 755.76,4 -4,4"/>
+<!-- Model -->
+<g id="node1" class="node">
+<title>Model</title>
+<path fill="none" stroke="black" d="M174.27,-58.19C174.27,-58.19 12,-58.19 12,-58.19 6,-58.19 0,-52.19 0,-46.19 0,-46.19 0,-28.59 0,-28.59 0,-22.59 6,-16.59 12,-16.59 12,-16.59 174.27,-16.59 174.27,-16.59 180.27,-16.59 186.27,-22.59 186.27,-28.59 186.27,-28.59 186.27,-46.19 186.27,-46.19 186.27,-52.19 180.27,-58.19 174.27,-58.19"/>
+<text text-anchor="middle" x="93.13" y="-41.59" font-family="Times,serif" font-size="14.00">Model</text>
+<text text-anchor="middle" x="93.13" y="-24.79" font-family="Times,serif" font-size="14.00">(Dados e Lógica de Negócios)</text>
+</g>
+<!-- ViewModel -->
+<g id="node2" class="node">
+<title>ViewModel</title>
+<path fill="none" stroke="black" d="M499.18,-66.59C499.18,-66.59 349.37,-66.59 349.37,-66.59 343.37,-66.59 337.37,-60.59 337.37,-54.59 337.37,-54.59 337.37,-20.19 337.37,-20.19 337.37,-14.19 343.37,-8.19 349.37,-8.19 349.37,-8.19 499.18,-8.19 499.18,-8.19 505.18,-8.19 511.18,-14.19 511.18,-20.19 511.18,-20.19 511.18,-54.59 511.18,-54.59 511.18,-60.59 505.18,-66.59 499.18,-66.59"/>
+<text text-anchor="middle" x="424.27" y="-49.99" font-family="Times,serif" font-size="14.00">ViewModel</text>
+<text text-anchor="middle" x="424.27" y="-33.19" font-family="Times,serif" font-size="14.00">(Lógica de Apresentação</text>
+<text text-anchor="middle" x="424.27" y="-16.39" font-family="Times,serif" font-size="14.00">Prepara Dados para a View)</text>
+</g>
+<!-- Model&#45;&gt;ViewModel -->
+<g id="edge4" class="edge">
+<title>Model-&gt;ViewModel</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M186.65,-43.69C192.61,-43.97 198.52,-44.2 204.27,-44.39 255.4,-46.01 268.24,-46.11 319.37,-44.39 321.44,-44.32 323.55,-44.24 325.66,-44.15"/>
+<polygon fill="black" stroke="black" points="325.77,-47.65 335.6,-43.71 325.45,-40.66 325.77,-47.65"/>
+<text text-anchor="middle" x="261.82" y="-49.84" font-family="Times,serif" font-size="14.00">Mudança nos Dados</text>
+</g>
+<!-- ViewModel&#45;&gt;Model -->
+<g id="edge1" class="edge">
+<title>ViewModel-&gt;Model</title>
+<path fill="none" stroke="black" d="M325.97,-11.7C323.75,-11.37 321.55,-11.06 319.37,-10.79 268.61,-4.39 255.06,-4.74 204.27,-10.79 197.41,-11.6 190.36,-12.7 183.31,-13.97"/>
+<polygon fill="black" stroke="black" points="325.19,-15.12 335.63,-13.34 326.36,-8.22 325.19,-15.12"/>
+<polygon fill="black" stroke="black" points="182.87,-10.49 173.72,-15.83 184.2,-17.37 182.87,-10.49"/>
+<text text-anchor="middle" x="261.82" y="-31.79" font-family="Times,serif" font-size="14.00">Busca Dados</text>
+<text text-anchor="middle" x="261.82" y="-14.99" font-family="Times,serif" font-size="14.00">Atualiza Dados</text>
+</g>
+<!-- View -->
+<g id="node3" class="node">
+<title>View</title>
+<path fill="none" stroke="black" d="M739.76,-66.59C739.76,-66.59 668.06,-66.59 668.06,-66.59 662.06,-66.59 656.06,-60.59 656.06,-54.59 656.06,-54.59 656.06,-20.19 656.06,-20.19 656.06,-14.19 662.06,-8.19 668.06,-8.19 668.06,-8.19 739.76,-8.19 739.76,-8.19 745.76,-8.19 751.76,-14.19 751.76,-20.19 751.76,-20.19 751.76,-54.59 751.76,-54.59 751.76,-60.59 745.76,-66.59 739.76,-66.59"/>
+<text text-anchor="middle" x="703.91" y="-49.99" font-family="Times,serif" font-size="14.00">View</text>
+<text text-anchor="middle" x="703.91" y="-33.19" font-family="Times,serif" font-size="14.00">(Exibe a UI</text>
+<text text-anchor="middle" x="703.91" y="-16.39" font-family="Times,serif" font-size="14.00">Data Binding)</text>
+</g>
+<!-- ViewModel&#45;&gt;View -->
+<g id="edge2" class="edge">
+<title>ViewModel-&gt;View</title>
+<path fill="none" stroke="black" d="M511.5,-43.61C550.21,-45.54 596.44,-46.63 638.06,-44.39 640.22,-44.27 642.42,-44.13 644.64,-43.98"/>
+<polygon fill="black" stroke="black" points="644.65,-47.49 654.34,-43.19 644.09,-40.51 644.65,-47.49"/>
+<text text-anchor="middle" x="583.62" y="-66.63" font-family="Times,serif" font-size="14.00">Data Binding</text>
+<text text-anchor="middle" x="583.62" y="-49.83" font-family="Times,serif" font-size="14.00">(Propriedades)</text>
+</g>
+<!-- View&#45;&gt;ViewModel -->
+<g id="edge3" class="edge">
+<title>View-&gt;ViewModel</title>
+<path fill="none" stroke="black" d="M655.59,-12.2C649.81,-9.99 643.89,-8.09 638.06,-6.79 590.84,3.79 577.07,0.12 529.18,-6.79 527.02,-7.1 524.84,-7.45 522.64,-7.82"/>
+<polygon fill="black" stroke="black" points="522.25,-4.33 513.09,-9.67 523.58,-11.21 522.25,-4.33"/>
+<text text-anchor="middle" x="583.62" y="-27.79" font-family="Times,serif" font-size="14.00">Data Binding</text>
+<text text-anchor="middle" x="583.62" y="-10.99" font-family="Times,serif" font-size="14.00">(Ações/Comandos)</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840pt" height="74pt" viewBox="0.00 0.00 839.81 74.44">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 70.44)">
+<title>MVC</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-70.44 835.81,-70.44 835.81,4 -4,4"/>
+<!-- Model -->
+<g id="node1" class="node">
+<title>Model</title>
+<path fill="none" stroke="black" d="M174.27,-53.64C174.27,-53.64 12,-53.64 12,-53.64 6,-53.64 0,-47.64 0,-41.64 0,-41.64 0,-24.04 0,-24.04 0,-18.04 6,-12.04 12,-12.04 12,-12.04 174.27,-12.04 174.27,-12.04 180.27,-12.04 186.27,-18.04 186.27,-24.04 186.27,-24.04 186.27,-41.64 186.27,-41.64 186.27,-47.64 180.27,-53.64 174.27,-53.64"/>
+<text text-anchor="middle" x="93.13" y="-37.04" font-family="Times,serif" font-size="14.00">Model</text>
+<text text-anchor="middle" x="93.13" y="-20.24" font-family="Times,serif" font-size="14.00">(Dados e Lógica de Negócios)</text>
+</g>
+<!-- Controller -->
+<g id="node3" class="node">
+<title>Controller</title>
+<path fill="none" stroke="black" d="M512.39,-62.04C512.39,-62.04 378.89,-62.04 378.89,-62.04 372.89,-62.04 366.89,-56.04 366.89,-50.04 366.89,-50.04 366.89,-15.64 366.89,-15.64 366.89,-9.64 372.89,-3.64 378.89,-3.64 378.89,-3.64 512.39,-3.64 512.39,-3.64 518.39,-3.64 524.39,-9.64 524.39,-15.64 524.39,-15.64 524.39,-50.04 524.39,-50.04 524.39,-56.04 518.39,-62.04 512.39,-62.04"/>
+<text text-anchor="middle" x="445.64" y="-45.44" font-family="Times,serif" font-size="14.00">Controller</text>
+<text text-anchor="middle" x="445.64" y="-28.64" font-family="Times,serif" font-size="14.00">(Lógica de Apresentação</text>
+<text text-anchor="middle" x="445.64" y="-11.84" font-family="Times,serif" font-size="14.00">e Intermediário)</text>
+</g>
+<!-- Model&#45;&gt;Controller -->
+<g id="edge4" class="edge">
+<title>Model-&gt;Controller</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M186.65,-39.15C192.61,-39.42 198.52,-39.66 204.27,-39.84 268.51,-41.88 284.66,-42.19 348.89,-39.84 350.96,-39.77 353.05,-39.68 355.15,-39.59"/>
+<polygon fill="black" stroke="black" points="355.22,-43.09 365.03,-39.1 354.87,-36.1 355.22,-43.09"/>
+<text text-anchor="middle" x="276.58" y="-45.69" font-family="Times,serif" font-size="14.00">Mudança nos Dados</text>
+</g>
+<!-- View -->
+<g id="node2" class="node">
+<title>View</title>
+<path fill="none" stroke="black" d="M819.81,-62.04C819.81,-62.04 690.58,-62.04 690.58,-62.04 684.58,-62.04 678.58,-56.04 678.58,-50.04 678.58,-50.04 678.58,-15.64 678.58,-15.64 678.58,-9.64 684.58,-3.64 690.58,-3.64 690.58,-3.64 819.81,-3.64 819.81,-3.64 825.81,-3.64 831.81,-9.64 831.81,-15.64 831.81,-15.64 831.81,-50.04 831.81,-50.04 831.81,-56.04 825.81,-62.04 819.81,-62.04"/>
+<text text-anchor="middle" x="755.2" y="-45.44" font-family="Times,serif" font-size="14.00">View</text>
+<text text-anchor="middle" x="755.2" y="-28.64" font-family="Times,serif" font-size="14.00">(Exibe a UI e</text>
+<text text-anchor="middle" x="755.2" y="-11.84" font-family="Times,serif" font-size="14.00">Interage com o Usuário)</text>
+</g>
+<!-- View&#45;&gt;Controller -->
+<g id="edge3" class="edge">
+<title>View-&gt;Controller</title>
+<path fill="none" stroke="black" d="M678.3,-14.52C672.33,-13.53 666.37,-12.68 660.58,-12.04 608.36,-6.31 594.62,-6.43 542.39,-12.04 540.32,-12.26 538.23,-12.51 536.13,-12.78"/>
+<polygon fill="black" stroke="black" points="535.68,-9.31 526.29,-14.22 536.69,-16.24 535.68,-9.31"/>
+<text text-anchor="middle" x="601.48" y="-16.24" font-family="Times,serif" font-size="14.00">Ações do Usuário</text>
+</g>
+<!-- Controller&#45;&gt;Model -->
+<g id="edge1" class="edge">
+<title>Controller-&gt;Model</title>
+<path fill="none" stroke="black" d="M355.48,-7.24C353.27,-6.87 351.07,-6.54 348.89,-6.24 285.2,2.44 268.09,1.36 204.27,-6.24 197.41,-7.06 190.36,-8.15 183.31,-9.43"/>
+<polygon fill="black" stroke="black" points="354.66,-10.64 365.13,-9.03 355.94,-3.76 354.66,-10.64"/>
+<polygon fill="black" stroke="black" points="182.87,-5.95 173.72,-11.29 184.2,-12.82 182.87,-5.95"/>
+<text text-anchor="middle" x="276.58" y="-27.24" font-family="Times,serif" font-size="14.00">Manipula Dados</text>
+<text text-anchor="middle" x="276.58" y="-10.44" font-family="Times,serif" font-size="14.00">Notificações de Mudança</text>
+</g>
+<!-- Controller&#45;&gt;View -->
+<g id="edge2" class="edge">
+<title>Controller-&gt;View</title>
+<path fill="none" stroke="black" d="M535.9,-32.84C577.09,-32.84 625.83,-32.84 666.8,-32.84"/>
+<polygon fill="black" stroke="black" points="536.16,-29.34 526.16,-32.84 536.16,-36.34 536.16,-29.34"/>
+<polygon fill="black" stroke="black" points="666.62,-36.34 676.62,-32.84 666.62,-29.34 666.62,-36.34"/>
+<text text-anchor="middle" x="601.48" y="-53.84" font-family="Times,serif" font-size="14.00">Atualiza UI</text>
+<text text-anchor="middle" x="601.48" y="-37.04" font-family="Times,serif" font-size="14.00">Dados para Exibição</text>
+</g>
+</g>
+</svg>

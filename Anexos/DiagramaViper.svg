@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="867pt" height="132pt" viewBox="0.00 0.00 866.57 132.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 128)">
+<title>VIPER</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-128 862.57,-128 862.57,4 -4,4"/>
+<!-- View -->
+<g id="node1" class="node">
+<title>View</title>
+<path fill="none" stroke="black" d="M110.91,-90C110.91,-90 12,-90 12,-90 6,-90 0,-84 0,-78 0,-78 0,-43.6 0,-43.6 0,-37.6 6,-31.6 12,-31.6 12,-31.6 110.91,-31.6 110.91,-31.6 116.91,-31.6 122.91,-37.6 122.91,-43.6 122.91,-43.6 122.91,-78 122.91,-78 122.91,-84 116.91,-90 110.91,-90"/>
+<text text-anchor="middle" x="61.45" y="-73.4" font-family="Times,serif" font-size="14.00">View</text>
+<text text-anchor="middle" x="61.45" y="-56.6" font-family="Times,serif" font-size="14.00">(Exibe UI</text>
+<text text-anchor="middle" x="61.45" y="-39.8" font-family="Times,serif" font-size="14.00">Encaminha Ações)</text>
+</g>
+<!-- Presenter -->
+<g id="node2" class="node">
+<title>Presenter</title>
+<path fill="none" stroke="black" d="M409.78,-90C409.78,-90 276.28,-90 276.28,-90 270.28,-90 264.28,-84 264.28,-78 264.28,-78 264.28,-43.6 264.28,-43.6 264.28,-37.6 270.28,-31.6 276.28,-31.6 276.28,-31.6 409.78,-31.6 409.78,-31.6 415.78,-31.6 421.78,-37.6 421.78,-43.6 421.78,-43.6 421.78,-78 421.78,-78 421.78,-84 415.78,-90 409.78,-90"/>
+<text text-anchor="middle" x="343.03" y="-73.4" font-family="Times,serif" font-size="14.00">Presenter</text>
+<text text-anchor="middle" x="343.03" y="-56.6" font-family="Times,serif" font-size="14.00">(Lógica de Apresentação</text>
+<text text-anchor="middle" x="343.03" y="-39.8" font-family="Times,serif" font-size="14.00">Formata Dados)</text>
+</g>
+<!-- View&#45;&gt;Presenter -->
+<g id="edge1" class="edge">
+<title>View-&gt;Presenter</title>
+<path fill="none" stroke="black" d="M123.24,-66.76C129.2,-67.18 135.17,-67.54 140.91,-67.8 187.69,-69.88 199.48,-69.51 246.28,-67.8 248.35,-67.72 250.44,-67.64 252.54,-67.55"/>
+<polygon fill="black" stroke="black" points="252.61,-71.05 262.43,-67.06 252.26,-64.06 252.61,-71.05"/>
+<text text-anchor="middle" x="193.6" y="-73.43" font-family="Times,serif" font-size="14.00">Ações do Usuário</text>
+</g>
+<!-- Presenter&#45;&gt;View -->
+<g id="edge4" class="edge">
+<title>Presenter-&gt;View</title>
+<path fill="none" stroke="black" d="M263.86,-33.68C257.96,-32.29 252.06,-31.1 246.28,-30.2 200.01,-22.99 186.93,-21.54 140.91,-30.2 138.61,-30.63 136.29,-31.13 133.96,-31.69"/>
+<polygon fill="black" stroke="black" points="133.24,-28.25 124.51,-34.25 135.08,-35.01 133.24,-28.25"/>
+<text text-anchor="middle" x="193.6" y="-51.2" font-family="Times,serif" font-size="14.00">Dados Formatados</text>
+<text text-anchor="middle" x="193.6" y="-34.4" font-family="Times,serif" font-size="14.00">(ViewModels)</text>
+</g>
+<!-- Interactor -->
+<g id="node3" class="node">
+<title>Interactor</title>
+<path fill="none" stroke="black" d="M688.43,-124C688.43,-124 579.8,-124 579.8,-124 573.8,-124 567.8,-118 567.8,-112 567.8,-112 567.8,-77.6 567.8,-77.6 567.8,-71.6 573.8,-65.6 579.8,-65.6 579.8,-65.6 688.43,-65.6 688.43,-65.6 694.43,-65.6 700.43,-71.6 700.43,-77.6 700.43,-77.6 700.43,-112 700.43,-112 700.43,-118 694.43,-124 688.43,-124"/>
+<text text-anchor="middle" x="634.12" y="-107.4" font-family="Times,serif" font-size="14.00">Interactor</text>
+<text text-anchor="middle" x="634.12" y="-90.6" font-family="Times,serif" font-size="14.00">(Lógica de Negócios</text>
+<text text-anchor="middle" x="634.12" y="-73.8" font-family="Times,serif" font-size="14.00">Manipula Dados)</text>
+</g>
+<!-- Presenter&#45;&gt;Interactor -->
+<g id="edge2" class="edge">
+<title>Presenter-&gt;Interactor</title>
+<path fill="none" stroke="black" d="M422.04,-76.15C428.03,-77.12 434,-78.02 439.78,-78.8 478.03,-83.96 520.78,-87.71 556.33,-90.27"/>
+<polygon fill="black" stroke="black" points="555.87,-93.75 566.1,-90.96 556.36,-86.77 555.87,-93.75"/>
+<text text-anchor="middle" x="494.79" y="-93.99" font-family="Times,serif" font-size="14.00">Solicita Dados</text>
+</g>
+<!-- Router -->
+<g id="node5" class="node">
+<title>Router</title>
+<path fill="none" stroke="black" d="M666.65,-41.6C666.65,-41.6 601.58,-41.6 601.58,-41.6 595.58,-41.6 589.58,-35.6 589.58,-29.6 589.58,-29.6 589.58,-12 589.58,-12 589.58,-6 595.58,0 601.58,0 601.58,0 666.65,0 666.65,0 672.65,0 678.65,-6 678.65,-12 678.65,-12 678.65,-29.6 678.65,-29.6 678.65,-35.6 672.65,-41.6 666.65,-41.6"/>
+<text text-anchor="middle" x="634.12" y="-25" font-family="Times,serif" font-size="14.00">Router</text>
+<text text-anchor="middle" x="634.12" y="-8.2" font-family="Times,serif" font-size="14.00">(Navegação)</text>
+</g>
+<!-- Presenter&#45;&gt;Router -->
+<g id="edge6" class="edge">
+<title>Presenter-&gt;Router</title>
+<path fill="none" stroke="black" d="M422.21,-32.89C428.11,-31.39 434.01,-30.06 439.78,-29 485.85,-20.54 539.07,-18.87 578,-19.09"/>
+<polygon fill="black" stroke="black" points="577.8,-22.59 587.83,-19.2 577.87,-15.59 577.8,-22.59"/>
+<text text-anchor="middle" x="494.79" y="-33.2" font-family="Times,serif" font-size="14.00">Solicita Navegação</text>
+</g>
+<!-- Interactor&#45;&gt;Presenter -->
+<g id="edge3" class="edge">
+<title>Interactor-&gt;Presenter</title>
+<path fill="none" stroke="black" d="M574.05,-65.17C566.06,-62.22 557.85,-59.7 549.8,-58 512.1,-50.04 469.65,-49.29 433.14,-51.08"/>
+<polygon fill="black" stroke="black" points="433.31,-47.56 423.52,-51.62 433.7,-54.55 433.31,-47.56"/>
+<text text-anchor="middle" x="494.79" y="-62.2" font-family="Times,serif" font-size="14.00">Dados (Entities)</text>
+</g>
+<!-- Entity -->
+<g id="node4" class="node">
+<title>Entity</title>
+<path fill="none" stroke="black" d="M846.57,-115.6C846.57,-115.6 809.47,-115.6 809.47,-115.6 803.47,-115.6 797.47,-109.6 797.47,-103.6 797.47,-103.6 797.47,-86 797.47,-86 797.47,-80 803.47,-74 809.47,-74 809.47,-74 846.57,-74 846.57,-74 852.57,-74 858.57,-80 858.57,-86 858.57,-86 858.57,-103.6 858.57,-103.6 858.57,-109.6 852.57,-115.6 846.57,-115.6"/>
+<text text-anchor="middle" x="828.02" y="-99" font-family="Times,serif" font-size="14.00">Entity</text>
+<text text-anchor="middle" x="828.02" y="-82.2" font-family="Times,serif" font-size="14.00">(Dados)</text>
+</g>
+<!-- Interactor&#45;&gt;Entity -->
+<g id="edge5" class="edge">
+<title>Interactor-&gt;Entity</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M712.16,-94.8C737.31,-94.8 764.26,-94.8 785.73,-94.8"/>
+<polygon fill="black" stroke="black" points="712.4,-91.3 702.4,-94.8 712.4,-98.3 712.4,-91.3"/>
+<polygon fill="black" stroke="black" points="785.54,-98.3 795.54,-94.8 785.54,-91.3 785.54,-98.3"/>
+<text text-anchor="middle" x="748.95" y="-99" font-family="Times,serif" font-size="14.00">Usa Dados</text>
+</g>
+</g>
+</svg>
