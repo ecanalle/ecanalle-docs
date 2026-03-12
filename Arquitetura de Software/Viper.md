@@ -8,7 +8,7 @@ Com certeza! O padrão de arquitetura VIPER é outro padrão de arquitetura para
 
 **Diagrama Simplificado:**
 
-![[DiagramaViper.svg]]
+![Diagrama VIPER](../Anexos/DiagramaViper.svg)
 
 **Fluxo de Interação Típico:**
 

@@ -11,7 +11,7 @@ O MVC divide a aplicação em três partes interconectadas:
 
 **Diagrama Simplificado:**
 
-![[DiagramaMVC.svg]]
+![Diagrama MVC](../Anexos/DiagramaMVC.svg)
 
 
 **Fluxo de Interação Típico:**

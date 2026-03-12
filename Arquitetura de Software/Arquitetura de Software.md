@@ -43,8 +43,8 @@ A escolha da arquitetura depende de vários fatores, incluindo:
 - **Curva de aprendizado:** MVC é mais simples para iniciantes, enquanto VIPER tem uma curva maior.
 - **Framework de UI:** SwiftUI se integra naturalmente com padrões reativos e MVVM, enquanto UIKit tradicionalmente usa MVC (mas pode se beneficiar de MVVM ou VIPER).
 
-![[DiagramaMVCxMVVMxVIPER.svg]]
+![Diagrama MVC x MVVM x VIPER](../Anexos/DiagramaMVCxMVVMxVIPER.svg)
 
-![[DiagramaArquiteturasSwift.svg]]
+![Diagrama Arquiteturas Swift](../Anexos/DiagramaArquiteturasSwift.svg)
 
 Relacionados: [[MVC]] [[MVVM]] [[Viper]]

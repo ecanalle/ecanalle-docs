@@ -13,7 +13,7 @@ O MVVM introduz uma nova camada entre a View e o Model, chamada ViewModel. Essa 
 
 **Diagrama Simplificado:**
 
-![[DiagramaMVVM.svg]]
+![Diagrama MVVM](../Anexos/DiagramaMVVM.svg)
 
 **Fluxo de Interação Típico:**
 
