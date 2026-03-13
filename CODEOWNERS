@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# Define who must review and approve pull requests before they can be merged
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# All files in this repository
+* @ecanalle
