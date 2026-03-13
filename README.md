@@ -83,6 +83,16 @@ Comprehensive documentation on Swift: fundamentals, software architecture, frame
 ### 💻 CLI
 - [Command Line Interface](CLI/CLI.md)
 
+### 🔐 Security
+- [Security Overview](Segurança/Segurança.md)
+  - [CryptoKit](Segurança/CryptoKit.md)
+  - [Keychain](Segurança/Keychain.md)
+  - [LocalAuthentication](Segurança/LocalAuthentication.md)
+  - [HTTPS and TLS](Segurança/HTTPS%20e%20TLS.md)
+  - [Authentication](Segurança/Autenticação.md)
+  - [Data Storage](Segurança/Armazenamento%20de%20Dados.md)
+  - [OWASP Top 10](Segurança/OWASP%20Top%2010.md)
+
 ---
 
 ## 📂 Repository Structure
@@ -104,6 +114,7 @@ ecanalle-docs/
 ├── Animação em Swift/         # Animation guides
 ├── Design Patterns/           # Design patterns
 ├── Acessibilidade/            # Accessibility guidelines
+├── Segurança/                 # Security guides
 ├── Internacionalização e Localização/  # i18n & localization
 ├── CLI/                       # CLI development
 ├── Anexos/                    # Additional materials (diagrams, etc)
@@ -133,6 +144,7 @@ ecanalle-docs/
 - ✅ Backend development
 - ✅ Testing and quality assurance
 - ✅ Advanced Swift concepts
+- ✅ Security best practices
 - ✅ Best practices and design patterns
 
 ---
@@ -243,6 +255,16 @@ Documentação abrangente sobre Swift: fundamentos, arquitetura de software, fra
 ### 💻 CLI
 - [Command Line Interface](CLI/CLI.md)
 
+### 🔐 Segurança
+- [Visão Geral de Segurança](Segurança/Segurança.md)
+  - [CryptoKit](Segurança/CryptoKit.md)
+  - [Keychain](Segurança/Keychain.md)
+  - [LocalAuthentication](Segurança/LocalAuthentication.md)
+  - [HTTPS e TLS](Segurança/HTTPS%20e%20TLS.md)
+  - [Autenticação](Segurança/Autenticação.md)
+  - [Armazenamento de Dados](Segurança/Armazenamento%20de%20Dados.md)
+  - [OWASP Top 10](Segurança/OWASP%20Top%2010.md)
+
 ---
 
 ### 🚀 Como Começar
@@ -265,6 +287,7 @@ Documentação abrangente sobre Swift: fundamentos, arquitetura de software, fra
 - ✅ Desenvolvimento de backend
 - ✅ Testes e garantia de qualidade
 - ✅ Conceitos avançados de Swift
+- ✅ Boas práticas de segurança
 - ✅ Boas práticas e padrões de design
 
 ---
